@@ -81,7 +81,7 @@ hystrix:
           thread:
             timeoutInMilliseconds: 60000
 
-#πÿ±’—È÷§
+
 management:
   metrics:
     web:
