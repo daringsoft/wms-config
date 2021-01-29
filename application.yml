@@ -42,7 +42,7 @@ redis:
 ribbon:
   eager-load:
     enabled: true
-    clients: wms-auth,wms-user-service
+    clients: microservice-auth,microservice-user-service
   Httpclient:
     enabled: true
   OkHttp:
